@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\NoteDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Contracts\\NoteDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\GetNotesResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Contracts\\GetNotesResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\GetNotesRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Contracts\\GetNotesRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\CreateNoteRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Contracts\\CreateNoteRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\DataAccess\\NotesDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\DataAccess\\NotesDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Models\\Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Models\\Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\laba89.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\laba89.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\laba89.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:laba8\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\laba8.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\NoteDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Controllers\\NotesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\DataAccess\\NotesDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Models\\Note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\GetNotesResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\GetNotesRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\laba8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\NoteDto.cs",
+              "RelativeDocumentMoniker": "laba8\\Contracts\\NoteDto.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\NoteDto.cs",
+              "RelativeToolTip": "laba8\\Contracts\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:35.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "laba8\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "laba8\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "laba8\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "laba8\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:26.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "laba8\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "laba8\\Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:20.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "laba8\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "laba8\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:39:09.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "laba8\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "laba8\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:38:58.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "laba8\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "laba8\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:38:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "laba8\\Models\\Note.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Models\\Note.cs",
+              "RelativeToolTip": "laba8\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:38:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "laba8\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Properties\\launchSettings.json",
+              "RelativeToolTip": "laba8\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T15:33:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "laba8\\appsettings.Development.json",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\appsettings.Development.json",
+              "RelativeToolTip": "laba8\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T15:30:27.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\appsettings.json",
+              "RelativeDocumentMoniker": "laba8\\appsettings.json",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\appsettings.json",
+              "RelativeToolTip": "laba8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T15:30:25.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "laba89.csproj",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.csproj",
+              "RelativeDocumentMoniker": "laba8\\laba89.csproj",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.csproj",
+              "RelativeToolTip": "laba8\\laba89.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T15:30:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "laba89.csproj.user",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.csproj.user",
+              "RelativeDocumentMoniker": "laba8\\laba89.csproj.user",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.csproj.user",
+              "RelativeToolTip": "laba8\\laba89.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-03-29T15:29:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "laba89.http",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.http",
+              "RelativeDocumentMoniker": "laba8\\laba89.http",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\laba89.http",
+              "RelativeToolTip": "laba8\\laba89.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-29T15:29:41.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Program.cs",
+              "RelativeDocumentMoniker": "laba8\\Program.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\Program.cs",
+              "RelativeToolTip": "laba8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:29:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "laba8\\WeatherForecast.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba8\\laba8\\WeatherForecast.cs",
+              "RelativeToolTip": "laba8\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:29:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\WeatherForecast.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:16:55.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "laba8.http",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\laba8.http",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\laba8.http",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\laba8.http",
+              "RelativeToolTip": "..\\laba89\\laba89\\laba8.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-29T10:16:36.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\NoteDto.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Contracts\\NoteDto.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\NoteDto.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Contracts\\NoteDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:51:41.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Controllers\\NotesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:42:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T22:18:22.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\DataAccess\\NotesDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:56:10.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Models\\Note.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Models\\Note.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Models\\Note.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:48:59.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Contracts\\CreateNoteRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:39:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\appsettings.Development.json",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\appsettings.Development.json",
+              "RelativeToolTip": "..\\laba89\\laba89\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T11:31:01.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Program.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Program.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Program.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:38:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:58:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "..\\laba89\\laba89\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:02:19.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "laba8.csproj",
+              "DocumentMoniker": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\laba8.csproj",
+              "RelativeDocumentMoniker": "..\\laba89\\laba89\\laba8.csproj",
+              "ToolTip": "D:\\University\\3d_year\\Rasrabotka_prilozheniy\\laba89\\laba89\\laba8.csproj",
+              "RelativeToolTip": "..\\laba89\\laba89\\laba8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T10:47:57.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
